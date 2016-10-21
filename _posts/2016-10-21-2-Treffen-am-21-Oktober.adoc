@@ -1,7 +1,29 @@
 = 2. Treffen am 21. Oktober
 :hp-tags: Processing, Meetup
 
-== Teilnehmer
+== Vorstellungsrunde
+Katja (inoffiziell), Daniel, Jamal, Kai
+
+== Foto-Bearbeitung
+
+Open Source-Alternativen zu Photoshop, Ligthroom etc.
+Gimp
+Paint.NET
+Darktable
+
+== POV-RAY Demo
+Jamal 
+Z.b. animierte Fahrradkette
+http://www.f-lohmueller.de/pov_tut/animate/anim142e.htm
+
+Die Diskussion kommt dann auf das Thema https://en.wikipedia.org/wiki/Ray_tracing_(graphics)#In_real_time[Raytracing in Real-Time]
+
+== Processing
+
+https://processing.org[Processing]
+
+https://www.coursera.org/learn/digitalmedia[Processing-Kurs bei Coursera]
+https://github.com/dgorissen/coursera-dl[Coursera-dl]
 
 == Nächster Termin
 ++++xx. November 2016, 19 Uhr, Ermekeilkaserne Haus 8
