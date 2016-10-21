@@ -9,7 +9,7 @@ Katja (inoffiziell), Daniel, Jamal, Kai
 Open Source-Alternativen zu Photoshop, Ligthroom etc.
 Gimp
 Paint.NET
-Darktable
+http://www.darktable.org/[Darktable]
 
 Am Montag ab 18:15 Uhr gibt es ein Lightpainting-Treffen am Ententeich am Posttower, Bonn! Um mehr zu erfahren, kontaktiert mailto:fotobn.joooo@dfgh.net[Jamal]!
 
@@ -36,5 +36,8 @@ https://www.google.com/intl/en/chrome/demos/speech.html
 https://browser-fingerprint.cs.fau.de/
 https://panopticlick.eff.org/
 
+=== forensische Analyse von Digitalbildern
+http://fotoforensics.com/
+
 == Nächster Termin
-++++xx. November 2016, 19 Uhr, Ermekeilkaserne Haus 8
+++++25. November 2016, 19 Uhr, Ermekeilkaserne Haus 8
