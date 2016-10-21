@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Creative Coding Bonn]]></title><description><![CDATA[Creative Coding Bonn verbindet Menschen, die sich für jegliche Aspekte des kreativen Schaffens mit Computern interessieren.]]></description><link>https://creative-coding-bonn.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Oct 2016 11:04:16 GMT</lastBuildDate><atom:link href="https://creative-coding-bonn.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[1. Treffen am 23. September]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_vorstellungsrunde">Vorstellungsrunde</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Anwesend sind Akin, Daniel, Jamal, Jupp, Michael, XXX</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_einf_hrungspr_sentation">Einführungspräsentation</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Daniel zeigt eine kurze Präsentation, über das wie / warum / weshalb.
+Link folgt!
+Anschließend gibt es eine kurze Diskussion über die Vorstellungen der Teilnehmer und was bei diesem Treffen angeschaut werden kann.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_live_coding_mit_sonic_pi_und_overtone">Live Coding mit Sonic Pi und Overtone</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Daniel überfliegt eine ältere <a href="http://danielappelt.github.io/talk-sonic-pi/">Sonic Pi Präsentation</a> und startet dann eine Live-Demo. Anschließend gibt er noch einen kurzen Einblick in <a href="https://overtone.github.io">Overtone</a>.</p>
+</div>
+<div class="sect2">
+<h3 id="_weitere_links_events">Weitere Links / Events</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://toplap.org">Live Coding Community</a></p>
+</li>
+<li>
+<p><a href="http://iclc.livecodenetwork.org/2016/">Live Coding Conference 2016</a> (12.-15.10. in Hamilton, Canada)</p>
+</li>
+<li>
+<p><a href="http://algomech.com/2016/">Algomech - Festival of Algorithmic and Mechanical Movement</a> (12.-19.11. in Sheffield, UK)</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_stolpersteine">Stolpersteine</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Jupp stellt sein <a href="http://stolpersteine.codeforbonn.de">Stolpersteine-Projekt</a> vor. Anschließend gibt es eine rege Diskussion, wie das Projekt weiter verschönert werden kann.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_n_chster_termin">Nächster Termin</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Oktober, 19 Uhr, Ermekeilkaserne in Haus 8</p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></description><link>https://creative-coding-bonn.github.io/2016/10/21/1-Treffen-am-23-September.html</link><guid isPermaLink="true">https://creative-coding-bonn.github.io/2016/10/21/1-Treffen-am-23-September.html</guid><category><![CDATA[Live Coding]]></category><category><![CDATA[ Stolpersteine]]></category><category><![CDATA[ Meetup]]></category><dc:creator><![CDATA[Daniel Appelt]]></dc:creator><pubDate>Fri, 21 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
