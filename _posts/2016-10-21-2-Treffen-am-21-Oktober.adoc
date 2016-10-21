@@ -27,5 +27,14 @@ https://processing.org[Processing]
 https://www.coursera.org/learn/digitalmedia[Processing-Kurs bei Coursera]
 https://github.com/dgorissen/coursera-dl[Coursera-dl]
 
+== Sonstiges
+
+=== Sprach-Erkennung im Browser
+https://www.google.com/intl/en/chrome/demos/speech.html
+
+=== Browser-Fingerprinting
+https://browser-fingerprint.cs.fau.de/
+https://panopticlick.eff.org/
+
 == Nächster Termin
 ++++xx. November 2016, 19 Uhr, Ermekeilkaserne Haus 8
