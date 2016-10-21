@@ -1,0 +1,24 @@
+= 1. Treffen am 23. September
+:hp-tags: Live Coding, Stolpersteine, Meetup
+
+== Vorstellungsrunde
+Anwesend sind Akin, Daniel, Jamal, Jupp, Michael, XXX
+
+== Einführungspräsentation
+Daniel zeigt eine kurze Präsentation, über das wie / warum / weshalb.
+Link folgt!
+Anschließend gibt es eine kurze Diskussion über die Vorstellungen der Teilnehmer und was bei diesem Treffen angeschaut werden kann.
+
+== Live Coding mit Sonic Pi und Overtone
+Daniel überfliegt eine ältere http://danielappelt.github.io/talk-sonic-pi/[Sonic Pi Präsentation] und startet dann eine Live-Demo. Anschließend gibt er noch einen kurzen Einblick in https://overtone.github.io[Overtone].
+
+=== Weitere Links / Events
+* http://toplap.org[Live Coding Community]
+* http://iclc.livecodenetwork.org/2016/[Live Coding Conference 2016] (12.-15.10. in Hamilton, Canada)
+* http://algomech.com/2016/[Algomech - Festival of Algorithmic and Mechanical Movement] (12.-19.11. in Sheffield, UK)
+
+== Stolpersteine
+Jupp stellt sein http://stolpersteine.codeforbonn.de[Stolpersteine-Projekt] vor. Anschließend gibt es eine rege Diskussion, wie das Projekt weiter verschönert werden kann.
+
+== Nächster Termin
+21. Oktober, 19 Uhr, Ermekeilkaserne in Haus 8
