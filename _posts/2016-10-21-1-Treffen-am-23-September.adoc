@@ -27,4 +27,4 @@ Daniel überfliegt eine ältere http://danielappelt.github.io/talk-sonic-pi/[Son
 Jupp stellt sein http://stolpersteine.codeforbonn.de[Stolpersteine-Projekt] vor. Anschließend gibt es eine rege Diskussion, wie das Projekt weiter verschönert werden kann.
 
 == Nächster Termin
-21. Oktober, 19 Uhr, Ermekeilkaserne in Haus 8
+++++21. Oktober, 19 Uhr, Ermekeilkaserne in Haus 8
