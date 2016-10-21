@@ -13,11 +13,12 @@ Anschließend gibt es eine kurze Diskussion über die Vorstellungen der Teilnehm
 Daniel überfliegt eine ältere http://danielappelt.github.io/talk-sonic-pi/[Sonic Pi Präsentation] und startet dann eine Live-Demo. Anschließend gibt er noch einen kurzen Einblick in https://overtone.github.io[Overtone].
 
 === Weitere Links
-.Overtone
+
+==== Overtone
 * https://www.masteringemacs.org/article/beginners-guide-to-emacs[A Beginner's Guide to Emacs]
 * http://overtone.github.io/emacs-live/[Emacs Live]
 
-.Community / Events
+==== Community / Events
 * http://toplap.org[Live Coding Community]
 * http://iclc.livecodenetwork.org/2016/[Live Coding Conference 2016] (12.-15.10. in Hamilton, Canada)
 * http://algomech.com/2016/[Algomech - Festival of Algorithmic and Mechanical Movement] (12.-19.11. in Sheffield, UK)
