@@ -2,17 +2,21 @@
 :hp-tags: Live Coding, Stolpersteine, Meetup
 
 == Vorstellungsrunde
-Anwesend sind Akin, Daniel, Jamal, Jupp, Michael, XXX
+Anwesend sind Akin, Daniel, Jamal, Jupp, Michael T.B., Vardan
 
 == Einführungspräsentation
-Daniel zeigt eine kurze Präsentation, über das wie / warum / weshalb.
-Link folgt!
-Anschließend gibt es eine kurze Diskussion über die Vorstellungen der Teilnehmer und was bei diesem Treffen angeschaut werden kann.
+Daniel zeigt eine file:///home/daniel/freizeit/creative_coding/creative_coding/talk-creative-coding-bonn/[kurze Präsentation], über das wie / warum / weshalb.
+
+Anschließend gibt es eine kurze Diskussion über die Vorstellungen der Teilnehmer und was bei diesem Treffen angeschaut werden soll.
 
 == Live Coding mit Sonic Pi und Overtone
 Daniel überfliegt eine ältere http://danielappelt.github.io/talk-sonic-pi/[Sonic Pi Präsentation] und startet dann eine Live-Demo. Anschließend gibt er noch einen kurzen Einblick in https://overtone.github.io[Overtone].
 
-=== Weitere Links / Events
+=== Weitere Links
+.Overtone
+* Emacs Live
+
+.Community / Events
 * http://toplap.org[Live Coding Community]
 * http://iclc.livecodenetwork.org/2016/[Live Coding Conference 2016] (12.-15.10. in Hamilton, Canada)
 * http://algomech.com/2016/[Algomech - Festival of Algorithmic and Mechanical Movement] (12.-19.11. in Sheffield, UK)
