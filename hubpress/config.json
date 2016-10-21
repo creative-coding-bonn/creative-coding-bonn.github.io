@@ -4,7 +4,14 @@
     "repositoryName": "creative-coding-bonn.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Creative Coding Bonn",
+    "description": "Creative Coding Bonn verbindet Menschen, die sich für jegliche Aspekte des kreativen Schaffens mit Computern interessieren."
+  },
+  "socialnetwork": {
+    "github": "creative-coding-bonn"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
