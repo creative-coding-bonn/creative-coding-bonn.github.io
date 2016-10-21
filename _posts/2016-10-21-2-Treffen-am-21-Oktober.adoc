@@ -36,7 +36,7 @@ https://www.google.com/intl/en/chrome/demos/speech.html
 https://browser-fingerprint.cs.fau.de/
 https://panopticlick.eff.org/
 
-=== forensische Analyse von Digitalbildern
+=== forensische Analyse von Digitalbildern insbesondere Pferdebildern
 http://fotoforensics.com/
 
 == Nächster Termin
