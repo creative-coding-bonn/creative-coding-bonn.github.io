@@ -5,7 +5,7 @@
 Anwesend sind Akin, Daniel, Jamal, Jupp, Michael T.B., Vardan
 
 == Einführungspräsentation
-Daniel zeigt eine file:///home/daniel/freizeit/creative_coding/creative_coding/talk-creative-coding-bonn/[kurze Präsentation], über das wie / warum / weshalb.
+Daniel zeigt eine https://danielappelt.github.io/talk-creative-coding-bonn/[kurze Präsentation], über das wie / warum / weshalb.
 
 Anschließend gibt es eine kurze Diskussion über die Vorstellungen der Teilnehmer und was bei diesem Treffen angeschaut werden soll.
 
