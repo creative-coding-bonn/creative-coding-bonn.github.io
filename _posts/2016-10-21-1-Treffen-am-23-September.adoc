@@ -14,7 +14,8 @@ Daniel überfliegt eine ältere http://danielappelt.github.io/talk-sonic-pi/[Son
 
 === Weitere Links
 .Overtone
-* Emacs Live
+* https://www.masteringemacs.org/article/beginners-guide-to-emacs[A Beginner's Guide to Emacs]
+* http://overtone.github.io/emacs-live/[Emacs Live]
 
 .Community / Events
 * http://toplap.org[Live Coding Community]
