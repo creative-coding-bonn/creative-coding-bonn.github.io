@@ -1,19 +1,22 @@
 = 2. Treffen am 21. Oktober
-:hp-tags: Processing, Meetup
+:hp-tags: POV-Ray, Processing, Meetup
 
 == Vorstellungsrunde
 Katja (inoffiziell), Daniel, Jamal, Kai
 
 == Foto-Bearbeitung
 
-Open Source-Alternativen zu Photoshop, Ligthroom etc.
-Gimp
-Paint.NET
-http://www.darktable.org/[Darktable]
+Katja, Jamal und Daniel diskutieren über Open Source-Alternativen zu Photoshop, Ligthroom etc.
 
-Am Montag ab 18:15 Uhr gibt es ein Lightpainting-Treffen am Ententeich am Posttower, Bonn! Um mehr zu erfahren, kontaktiert mailto:fotobn.joooo@dfgh.net[Jamal]!
+* https://www.gimp.org/[Gimp]
+* http://www.getpaint.net/index.html[Paint.NET]
+* http://www.darktable.org/[Darktable]
 
-== POV-RAY Demo
+=== Lightpainting
+
+Am Montag ab 18:15 Uhr gibt es ein Lightpainting-Treffen beim Ententeich am Posttower, Bonn! Um mehr zu erfahren, kontaktiert bitte mailto:fotobn.joooo@dfgh.net[Jamal]!
+
+== POV-Ray
 Jamal 
 Z.b. animierte Fahrradkette
 http://www.f-lohmueller.de/pov_tut/animate/anim142e.htm
@@ -22,10 +25,9 @@ Die Diskussion kommt dann auf das Thema https://en.wikipedia.org/wiki/Ray_tracin
 
 == Processing
 
-https://processing.org[Processing]
-
-https://www.coursera.org/learn/digitalmedia[Processing-Kurs bei Coursera]
-https://github.com/dgorissen/coursera-dl[Coursera-dl]
+* https://processing.org[Processing]
+* https://www.coursera.org/learn/digitalmedia[Processing-Kurs bei Coursera]
+* https://github.com/dgorissen/coursera-dl[Coursera-dl]
 
 == Sonstiges
 
@@ -33,10 +35,10 @@ https://github.com/dgorissen/coursera-dl[Coursera-dl]
 https://www.google.com/intl/en/chrome/demos/speech.html
 
 === Browser-Fingerprinting
-https://browser-fingerprint.cs.fau.de/
-https://panopticlick.eff.org/
+* https://browser-fingerprint.cs.fau.de/
+* https://panopticlick.eff.org/
 
-=== forensische Analyse von Digitalbildern insbesondere Pferdebildern
+=== Forensische Analyse von Digitalbildern insbesondere Pferdebildern
 http://fotoforensics.com/
 
 == Nächster Termin
