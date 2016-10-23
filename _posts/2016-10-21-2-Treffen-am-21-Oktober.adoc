@@ -6,10 +6,10 @@ Katja (inoffiziell), Daniel, Jamal, Kai
 
 == Foto-Bearbeitung
 
-Katja, Jamal und Daniel diskutieren über Open Source-Alternativen zu Photoshop, Ligthroom etc.
+Katja, Jamal und Daniel diskutieren über Open Source-Alternativen zu Photoshop, Ligthroom etc. Interessante Alternativen sind:
 
 * https://www.gimp.org/[Gimp]
-* http://www.getpaint.net/index.html[Paint.NET]
+* http://www.getpaint.net/index.html[Paint.NET] (nur bis Version 3.5 Open Source!) bzw. http://pinta-project.com/[Pinta]
 * http://www.darktable.org/[Darktable]
 
 === Lightpainting
@@ -17,29 +17,33 @@ Katja, Jamal und Daniel diskutieren über Open Source-Alternativen zu Photoshop,
 Am Montag ab 18:15 Uhr gibt es ein Lightpainting-Treffen beim Ententeich am Posttower, Bonn! Um mehr zu erfahren, kontaktiert bitte mailto:fotobn.joooo@dfgh.net[Jamal]!
 
 == POV-Ray
-Jamal 
-Z.b. animierte Fahrradkette
-http://www.f-lohmueller.de/pov_tut/animate/anim142e.htm
+Jamal erklärt kurz die Idee hinter https://de.wikipedia.org/wiki/POV-Ray[POV-Ray] und empfiehlt uns eine Seite mit vielen Tutorials und Beispielen wie einer http://www.f-lohmueller.de/pov_tut/animate/anim142e.htm[animierten Fahrradkette], das wir uns genauer anschauen.
 
-Die Diskussion kommt dann auf das Thema https://en.wikipedia.org/wiki/Ray_tracing_(graphics)#In_real_time[Raytracing in Real-Time]
+Im Vergleich zu kommerziellen Produkten wie Cinema 4D ist POV-Ray ein reiner Renderer ohne einen zugehörigen grafischen Modeller. Die Szenen werden mittels einer Beschreibungssprache vergleichbar einer Programmiersprache definiert.
+
+Die Diskussion kommt dann auf das Thema https://en.wikipedia.org/wiki/Ray_tracing_(graphics)#In_real_time[Raytracing in Real-Time].
 
 == Processing
+Daniel stellt die Programmiersprache und Entwicklungsumgebung https://processing.org[Processing] anhand von drei einfachen Beispielen vor. Processing wird häufig im Bereich Creative Coding eingesetzt, um visuelle und interaktive Projekte umzusetzen.
 
-* https://processing.org[Processing]
-* https://www.coursera.org/learn/digitalmedia[Processing-Kurs bei Coursera]
-* https://github.com/dgorissen/coursera-dl[Coursera-dl]
+=== Online-Kurs zu Processing
+* https://www.coursera.org/learn/digitalmedia[Processing-Kurs bei Coursera] started am 24. Oktober
+* https://github.com/dgorissen/coursera-dl[Coursera-dl] vereinfacht das Herunterladen von Coursera-Kursen
 
 == Sonstiges
 
 === Sprach-Erkennung im Browser
-https://www.google.com/intl/en/chrome/demos/speech.html
+Webkit-basierte Browser unterstützen seit einiger Zeit https://www.google.com/intl/en/chrome/demos/speech.html[Spracherkennung]. Die Sprachverarbeitung läuft hierbei auf Google-Servern. Dies sollte man bedenken, wenn man parallel bei einem Google-Service angemeldet ist.
 
 === Browser-Fingerprinting
+Mittels Browser-Fingerprinting versuchen Konzerne/Staaten Benutzer eindeutig zu identifzieren. Diverse Projekte weisen auf die Problematik hin:
+
 * https://browser-fingerprint.cs.fau.de/
 * https://panopticlick.eff.org/
 
 === Forensische Analyse von Digitalbildern insbesondere Pferdebildern
-http://fotoforensics.com/
+
+* http://fotoforensics.com/
 
 == Nächster Termin
 Freitag, 25. November 2016, 19 Uhr, Ermekeilkaserne Haus 8
