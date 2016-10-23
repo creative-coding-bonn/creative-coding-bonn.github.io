@@ -1,4 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Creative Coding Bonn]]></title><description><![CDATA[Creative Coding Bonn verbindet Menschen, die sich für jegliche Aspekte des kreativen Schaffens mit Computern interessieren.]]></description><link>https://creative-coding-bonn.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Oct 2016 13:54:20 GMT</lastBuildDate><atom:link href="https://creative-coding-bonn.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[1. Treffen am 23. September]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Creative Coding Bonn]]></title><description><![CDATA[Creative Coding Bonn verbindet Menschen, die sich für jegliche Aspekte des kreativen Schaffens mit Computern interessieren.]]></description><link>https://creative-coding-bonn.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 23 Oct 2016 12:10:36 GMT</lastBuildDate><atom:link href="https://creative-coding-bonn.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2. Treffen am 21. Oktober]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_vorstellungsrunde">Vorstellungsrunde</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Katja (inoffiziell), Daniel, Jamal, Kai</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_foto_bearbeitung">Foto-Bearbeitung</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Katja, Jamal und Daniel diskutieren über Open Source-Alternativen zu Photoshop, Ligthroom etc. Interessante Alternativen sind:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.gimp.org/">Gimp</a></p>
+</li>
+<li>
+<p><a href="http://www.getpaint.net/index.html">Paint.NET</a> (nur bis Version 3.5 Open Source!) bzw. <a href="http://pinta-project.com/">Pinta</a></p>
+</li>
+<li>
+<p><a href="http://www.darktable.org/">Darktable</a></p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="_lightpainting">Lightpainting</h3>
+<div class="paragraph">
+<p>Am Montag ab 18:15 Uhr gibt es ein Lightpainting-Treffen beim Ententeich am Posttower, Bonn! Um mehr zu erfahren, kontaktiert bitte <a href="mailto:fotobn.joooo@dfgh.net">Jamal</a>!</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_pov_ray">POV-Ray</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Jamal erklärt kurz die Idee hinter <a href="https://de.wikipedia.org/wiki/POV-Ray">POV-Ray</a> und empfiehlt uns eine Seite mit vielen Tutorials und Beispielen wie einer <a href="http://www.f-lohmueller.de/pov_tut/animate/anim142e.htm">animierten Fahrradkette</a>, das wir uns genauer anschauen.</p>
+</div>
+<div class="paragraph">
+<p>Im Vergleich zu kommerziellen Produkten wie Cinema 4D ist POV-Ray ein reiner Renderer ohne einen zugehörigen grafischen Modeller. Die Szenen werden mittels einer Beschreibungssprache vergleichbar einer Programmiersprache definiert.</p>
+</div>
+<div class="paragraph">
+<p>Die Diskussion kommt dann auf das Thema <a href="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)#In_real_time">Raytracing in Real-Time</a>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_processing">Processing</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Daniel stellt die Programmiersprache und Entwicklungsumgebung <a href="https://processing.org">Processing</a> anhand von drei einfachen Beispielen vor. Processing wird häufig im Bereich Creative Coding eingesetzt, um visuelle und interaktive Projekte umzusetzen.</p>
+</div>
+<div class="sect2">
+<h3 id="_online_kurs_zu_processing">Online-Kurs zu Processing</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.coursera.org/learn/digitalmedia">Processing-Kurs bei Coursera</a> started am 24. Oktober</p>
+</li>
+<li>
+<p><a href="https://github.com/dgorissen/coursera-dl">Coursera-dl</a> vereinfacht das Herunterladen von Coursera-Kursen</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sonstiges">Sonstiges</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_sprach_erkennung_im_browser">Sprach-Erkennung im Browser</h3>
+<div class="paragraph">
+<p>Webkit-basierte Browser unterstützen seit einiger Zeit <a href="https://www.google.com/intl/en/chrome/demos/speech.html">Spracherkennung</a>. Die Sprachverarbeitung läuft hierbei auf Google-Servern. Dies sollte man bedenken, wenn man parallel bei einem Google-Service angemeldet ist.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_browser_fingerprinting">Browser-Fingerprinting</h3>
+<div class="paragraph">
+<p>Mittels Browser-Fingerprinting versuchen Konzerne/Staaten Benutzer eindeutig zu identifzieren. Diverse Projekte weisen auf die Problematik hin:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://browser-fingerprint.cs.fau.de/" class="bare">https://browser-fingerprint.cs.fau.de/</a></p>
+</li>
+<li>
+<p><a href="https://panopticlick.eff.org/" class="bare">https://panopticlick.eff.org/</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_forensische_analyse_von_digitalbildern_insbesondere_pferdebildern">Forensische Analyse von Digitalbildern insbesondere Pferdebildern</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://fotoforensics.com/" class="bare">http://fotoforensics.com/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_n_chster_termin">Nächster Termin</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Freitag, 25. November 2016, 19 Uhr, Ermekeilkaserne Haus 8</p>
+</div>
+</div>
+</div>]]></description><link>https://creative-coding-bonn.github.io/2016/10/21/2-Treffen-am-21-Oktober.html</link><guid isPermaLink="true">https://creative-coding-bonn.github.io/2016/10/21/2-Treffen-am-21-Oktober.html</guid><category><![CDATA[POV-Ray]]></category><category><![CDATA[ Processing]]></category><category><![CDATA[ Meetup]]></category><dc:creator><![CDATA[Daniel Appelt]]></dc:creator><pubDate>Fri, 21 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[1. Treffen am 23. September]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_vorstellungsrunde">Vorstellungsrunde</h2>
 <div class="sectionbody">
 <div class="paragraph">
