@@ -16,8 +16,14 @@ Katja, Jamal und Daniel diskutieren über Open Source-Alternativen zu Photoshop,
 
 Am Montag ab 18:15 Uhr gibt es ein Lightpainting-Treffen beim Ententeich am Posttower, Bonn! Um mehr zu erfahren, kontaktiert bitte mailto:fotobn.joooo@dfgh.net[Jamal]!
 
+=== Kuration von Fotosammlungen
+
+Jamal empfiehlt uns einen Kurs an der Alanus-Hochschule, in dem vermittelt wird, wie man seine Foto-Sammlung aufräumt und ins "rechte Licht rückt".
+
+* http://www.alanus.edu/werkhaus/wh-weiterbildung/kursprogramm/kurse-detailansicht/kurs/das-bild-im-kopf.html["Das Bild im Kopf" - Kurs]
+
 == POV-Ray
-Jamal erklärt kurz die Idee hinter https://de.wikipedia.org/wiki/POV-Ray[POV-Ray] und empfiehlt uns eine Seite mit vielen Tutorials und Beispielen wie einer http://www.f-lohmueller.de/pov_tut/animate/anim142e.htm[animierten Fahrradkette], das wir uns genauer anschauen.
+Nachdem uns Jamal kurz die Idee hinter https://de.wikipedia.org/wiki/POV-Ray[POV-Ray] erklärt, legt er uns eine Seite mit vielen Tutorials und Beispielen wie einer http://www.f-lohmueller.de/pov_tut/animate/anim142e.htm[animierten Fahrradkette] ans Herz. Das Beispiel schauen wir uns genauer an.
 
 Im Vergleich zu kommerziellen Produkten wie Cinema 4D ist POV-Ray ein reiner Renderer ohne einen zugehörigen grafischen Modeller. Die Szenen werden mittels einer Beschreibungssprache vergleichbar einer Programmiersprache definiert.
 
