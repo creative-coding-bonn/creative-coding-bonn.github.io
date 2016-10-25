@@ -35,7 +35,7 @@
     {{!--
     <footer class="site-footer clearfix">
          <section class="copyright"><a href="{{@blog.url}}">{{@blog.title}}</a> &copy; {{date format="YYYY"}}</section>
-         <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
+         <section class="poweredby">Stolz präsentiert mit <a href="http://hubpress.io">HubPress</a></section>
     </footer>
     --}}
 
@@ -59,7 +59,7 @@
                     var words = get_text(post_content),
                         count = words.split(/\s+/).length,
                         read_time = Math.ceil((count / 150)),
-                        read_time_node = document.createTextNode(read_time + ' min read');
+                        read_time_node = document.createTextNode(read_time + ' Minuten');
                     document.getElementById('js-reading-time').appendChild(read_time_node);
                 }
             }
