@@ -8,7 +8,7 @@
     "tag": "tag.hbs",
     "loop": "partials/loop.hbs",
     "footer": "partials/footer.hbs",
-    "loop": "partials/loop.hbs"
+    "pagination": "partials/pagination.hbs"
   },
-  "version":"1.0.0"
+  "version":"1.0.1"
 }
