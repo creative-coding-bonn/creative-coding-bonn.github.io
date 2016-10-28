@@ -32,6 +32,10 @@ Die Diskussion kommt dann auf das Thema https://en.wikipedia.org/wiki/Ray_tracin
 == Processing
 Daniel stellt die Programmiersprache und Entwicklungsumgebung https://processing.org[Processing] anhand von drei einfachen Beispielen vor. Processing wird häufig im Bereich Creative Coding eingesetzt, um visuelle und interaktive Projekte umzusetzen.
 
+=== Weiterführende Informationen
+* https://processing.org/exhibition/[Übersicht über mehr als 150 Projekte], die auf Processing basieren
+* https://mitpress.mit.edu/books/processing-0[Schönes Buch der Processing-Macher]
+
 === Online-Kurs zu Processing
 * https://www.coursera.org/learn/digitalmedia[Processing-Kurs bei Coursera] started am 24. Oktober
 * https://github.com/dgorissen/coursera-dl[Coursera-dl] vereinfacht das Herunterladen von Coursera-Kursen
