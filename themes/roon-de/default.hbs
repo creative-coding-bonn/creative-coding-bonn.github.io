@@ -59,7 +59,7 @@
                     var words = get_text(post_content),
                         count = words.split(/\s+/).length,
                         read_time = Math.ceil((count / 150)),
-                        read_time_node = document.createTextNode(read_time + ' Minuten');
+                        read_time_node = document.createTextNode(read_time + (read_time === 1 ? ' Minute' : ' Minuten'));
                     document.getElementById('js-reading-time').appendChild(read_time_node);
                 }
             }
