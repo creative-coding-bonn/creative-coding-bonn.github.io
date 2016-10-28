@@ -13,7 +13,7 @@
     <link rel="shortcut icon" href="https://creative-coding-bonn.github.io/favicon.ico">
 
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic|Open+Sans:400italic,700italic,700,400">
-    <link rel="stylesheet" type="text/css" href="//creative-coding-bonn.github.io/themes/roon-de/assets/css/screen.css?v=1477658357734" />
+    <link rel="stylesheet" type="text/css" href="//creative-coding-bonn.github.io/themes/roon-de/assets/css/screen.css?v=1477660587291" />
 
     <link rel="canonical" href="https://creative-coding-bonn.github.io/2016/10/21/1-Treffen-am-23-September.html" />
     <meta name="referrer" content="origin" />
@@ -47,7 +47,7 @@ null
     <article role="main" class="">
         <header>
             <a href="https://creative-coding-bonn.github.io" id="home_link">«</a>
-            <div class="meta"><time datetime="2016-10-21">21.10.2016</time> <span class="count" id="js-reading-time"></span></div>
+            <div class="meta"><time datetime="2016-10-21">21.10.2016</time> <span class="count" id="js-reading-time">&nbsp;</span></div>
             <h1>1. Treffen am 23. September</h1>
         </header>
 
@@ -227,9 +227,10 @@ null
                 if (post_content) {
                     var words = get_text(post_content),
                         count = words.split(/\s+/).length,
-                        read_time = Math.ceil((count / 150)),
-                        read_time_node = document.createTextNode(read_time + (read_time === 1 ? ' Minute' : ' Minuten'));
-                    document.getElementById('js-reading-time').appendChild(read_time_node);
+                        read_time = Math.ceil((count / 150));
+
+                    document.getElementById('js-reading-time').textContent =
+                        read_time + (read_time === 1 ? ' Minute' : ' Minuten');
                 }
             }
 
