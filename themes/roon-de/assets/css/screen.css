@@ -776,7 +776,7 @@ body.user>header h1 {
 body.user>header hr {
     margin: 0 25%
 }
-body.user article {
+/*body.user article {
     position: relative;
     text-align: center;
     max-width: inherit;
@@ -849,39 +849,6 @@ body.user article time a {
     font-size: 14px;
     -webkit-text-size-adjust: none
 }
-body.user article .readmore {
-    display: -moz-inline-stack;
-    display: inline-block;
-    vertical-align: middle;
-    *vertical-align: auto;
-    zoom: 1;
-    *display: inline;
-    font-size: 13px;
-    line-height: 1em;
-    color: #a4adb6;
-    border-bottom: 1px solid #ededee;
-    -webkit-box-shadow: white 0 0 14px;
-    -moz-box-shadow: white 0 0 14px;
-    box-shadow: white 0 0 14px;
-    white-space: nowrap;
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
-    opacity: 0;
-    -webkit-transition-property: opacity, visibility, color;
-    -moz-transition-property: opacity, visibility, color;
-    -o-transition-property: opacity, visibility, color;
-    transition-property: opacity, visibility, color;
-    -webkit-transition-duration: 0.5s;
-    -moz-transition-duration: 0.5s;
-    -o-transition-duration: 0.5s;
-    transition-duration: 0.5s
-}
-body.user article .readmore:hover {
-    color: #21272d
-}
-body.user article:hover .readmore {
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
-    opacity: 1
-}
 body.user article .text {
     position: relative;
     text-align: left;
@@ -923,7 +890,7 @@ body.user article.featured .image-holder {
 }
 body.user>#load_more {
     margin-bottom: 100px
-}
+}*/
 #post_nav {
     padding: 46px 30px 40px 30px;
     overflow: auto;
@@ -1354,11 +1321,7 @@ html[dir=rtl] #blog_badge {
 body>iframe {
     display: none
 }
-body.touch.user article .readmore {
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
-    opacity: 1
-}
-@media only screen and (max-width: 1200px) {
+/*@media only screen and (max-width: 1200px) {
     body.user article.feature .wrap {
         padding-top: 25%
     }
@@ -1374,7 +1337,7 @@ body.touch.user article .readmore {
         -o-border-radius: 0;
         border-radius: 0
     }
-}
+}*/
 @media only screen and (max-width: 860px), screen and (max-height: 600px) {
     #feature_image.show.vert #feature_image_helper .bg, #feature_image.show.square #feature_image_helper .bg, #feature_image.vert #feature_image_helper .bg, #feature_image.square #feature_image_helper .bg {
         filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
@@ -1385,25 +1348,25 @@ body.touch.user article .readmore {
         opacity: 0
     }
 }
-@media only screen and (max-height: 800px) {
+/*@media only screen and (max-height: 800px) {
     body.user article.feature .wrap {
         padding-top: 20%
     }
     body.user article.feature.vert .container .wrap, body.user article.feature.square .container .wrap {
         padding-top: 30%
     }
-}
+}*/
 @media only screen and (max-width: 680px) {
     article .text strong .roon-img {
         margin-left: -7.5%;
         width: 115%
     }
 }
-@media only screen and (max-height: 600px) {
+/*@media only screen and (max-height: 600px) {
     body.user article.featured .image-holder {
         height: 400px
     }
-}
+}*/
 @media only screen and (max-width: 580px) {
     #feature_image {
         height: auto;
@@ -1419,7 +1382,7 @@ body.touch.user article .readmore {
     body.user>header h1 {
         padding-top: 70px
     }
-    body.user article:first-of-type {
+/*    body.user article:first-of-type {
         margin-top: 60px
     }
     body.user article.feature {
@@ -1440,11 +1403,11 @@ body.touch.user article .readmore {
     }
     body.user article header h1 {
         font-size: 24px
-    }
+    }*/
     article .text {
         line-height: 1.6em
     }
-    body.user article .text {
+/*    body.user article .text {
         line-height: 1.5em;
         font-size: 16px
     }
@@ -1454,7 +1417,7 @@ body.touch.user article .readmore {
     }
     body.user article.feature h1 a {
         font-size: 34px
-    }
+    }*/
     #post_nav {
         padding: 40px 30px 38px 30px
     }
@@ -1561,7 +1524,7 @@ body.touch.user article .readmore {
     article.image {
         margin-top: 30px
     }
-    body.user article {
+/*    body.user article {
         margin-top: 45px;
         margin-bottom: 30px
     }
@@ -1601,7 +1564,7 @@ body.touch.user article .readmore {
         background: -moz-linear-gradient(rgba(33, 39, 45, 0.25) 0%, rgba(33, 39, 45, 0.9) 75%);
         background: -o-linear-gradient(rgba(33, 39, 45, 0.25) 0%, rgba(33, 39, 45, 0.9) 75%);
         background: linear-gradient(rgba(33, 39, 45, 0.25) 0%, rgba(33, 39, 45, 0.9) 75%)
-    }
+    }*/
     #blog_badge {
         top: 14px;
         right: 10px;
