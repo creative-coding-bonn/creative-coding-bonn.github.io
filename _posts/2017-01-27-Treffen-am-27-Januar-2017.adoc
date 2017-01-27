@@ -1,0 +1,52 @@
+= Treffen am 27. Januar 2017
+:hp-tags: 2017, D3.js, Meetup
+
+== Vorstellungsrunde, Begrüßung, Organisation und Internes 
+Daniel
+
+=== Organisatorisch
+
+Eventuell könnte man ein offenes Etherpad o.ä. vorbereiten, um schon mal Input für das nächste Treffen zu sammeln.
+
+== News, Veranstaltungen, Releases, Termine
+
+* https://fosdem.org/2017/[FOSDEM'17, 4./5. Februar 2017, Brüssel]
+* http://rg-koeln.gi.de/naechste-veranstaltung.html[Vortrag mit Richard Stallmann: Free Software, Your Freedom, Your Privacy, 14. Februar 2017, Köln]
+* http://videonale.org/[Videonale, 17. Februar bis 2. April, Bonn]
+  - Film "How to live in Community", 19. Februar, Ermekeilinitiative
+* http://www.cop-23.org/[COP23 - Weltklimakonferenz der UN, 6.-17. November 2017, Bonn]
+  - Jährliche Tagung des UNO-Klimasekretariats, 8.-18.5.2017, Bonn
+
+== Projektideen für 2017
+
+
+
+== D3.js
+
+D3 steht für "Data Driven Documents". D3.js ist eine Javascript-Bibliothek, die es sehr einfach ermöglicht, dynamisch ein Dokument (HTML, SVG, etc.) anhand von Daten zu verändern. Beispielsweise kann man sehr leicht eine HTML-Tabelle aus Daten erzeugen oder aber eine beliebig komplexe Visualisierung mit SVG.
+
+* https://d3js.org/[D3.js Homepage]
+* https://bost.ocks.org/mike/bar/[Bar Chart-Tutorial]
+* https://jsfiddle.net/tLgp7qvv/[skalierender Bar Chart (abgewandelt von Teil 2 des Tutorials) in JSFiddle]
+
+=== Weiterführende Links
+
+* https://jsfiddle.net/[JSFiddle - Javascript testen]
+* https://www.codecademy.com/learn/javascript[Online Javascript lernen]
+* http://dmitrysoshnikov.com/ecmascript/javascript-the-core/[Javascript Inside Artikel]
+* https://developer.mozilla.org/en-US/docs/Web[MDN - Webstandards sehr gut erklärt] -> Suchfunktion
+* https://css-tricks.com/almanac/[CSS-Tricks - gute CSS-Referenz]
+
+=== Bücher
+
+* https://www.amazon.de/Information-Dashboard-Design-Stephen-Few/dp/1938377001/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1480157479&sr=1-1&keywords=stephen+few[Stephen Few - Information Dashboard Design]
+* https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742[Douglas Crockford - Javascript: The Good Parts]
+
+
+
+
+
+== Sonstiges - freie Diskussionsrunde
+
+== Nächster Termin
+Freitag, 24. Februar 2017, 19 Uhr, Ermekeilkaserne, Haus 8
