@@ -52,5 +52,7 @@ Wiederum einiges später stellte sich heraus, dass viele technische Dokumentatio
 
 == Sonstiges - freie Diskussionsrunde
 
+* Daniel: Auf der Suche nach Drum-Synthesizern für Linux, bin ich auf ein schönes https://aiexperiments.withgoogle.com/drum-machine[Google Labs-Projekt] gestoßen, welches Künstliche Intelligenz und Percussion-Sounds verbindet
+
 == Nächster Termin
 Freitag, 24. März 2017, 19 Uhr, Ermekeilkaserne, Haus 8
