@@ -5,10 +5,6 @@
 
 Daniel, Jamal
 
-=== Organisatorisch
-
-Schauen wir später noch mal, wie wir das alles besser bewerben.
-
 
 == News, Veranstaltungen, Releases, Termine
 
@@ -57,6 +53,11 @@ Wiederum einiges später stellte sich heraus, dass viele technische Dokumentatio
 * iMax / DRC: Raumkorrektur für Video und Audio, auch z.B. http://drc-fir.sourceforge.net/
 * Daniel berichtet vom schön, skurrilen Vortrag von Richard Stallmann inkl. dem großartigen Teil zur "Church of Emacs"
 * Daniel: Auf der Suche nach Drum-Synthesizern für Linux, bin ich auf ein schönes https://aiexperiments.withgoogle.com/drum-machine[Google Labs-Projekt] gestoßen, welches Künstliche Intelligenz und Percussion-Sounds verbindet
+
+
+=== Organisatorisch
+
+Um die Gruppe etwas lebendiger werden zu lassen, wollen wir eine Facebook-Gruppe aufmachen und eventuell Meetup den Rücken kehren.
 
 == Nächster Termin
 Freitag, 24. März 2017, 19 Uhr, Ermekeilkaserne, Haus 8
