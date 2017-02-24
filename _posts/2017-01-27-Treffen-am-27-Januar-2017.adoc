@@ -2,7 +2,8 @@
 :hp-tags: 2017, D3.js, Meetup
 
 == Vorstellungsrunde, Begrüßung, Organisation und Internes 
-Daniel
+
+Leider haben alle Teilnehmer kurzfristig abgesagt. Einige Sachen, die in Vorbereitung auf das Treffen gesammelt wurden, werden nun veröffentlicht.
 
 === Organisatorisch
 
@@ -19,7 +20,7 @@ Eventuell könnte man ein offenes Etherpad o.ä. vorbereiten, um schon mal Input
 
 == Projektideen für 2017
 
-
+Das Thema nehmen wir uns noch mal im Februar vor.
 
 == D3.js
 
@@ -41,9 +42,6 @@ D3 steht für "Data Driven Documents". D3.js ist eine Javascript-Bibliothek, die
 
 * https://www.amazon.de/Information-Dashboard-Design-Stephen-Few/dp/1938377001/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1480157479&sr=1-1&keywords=stephen+few[Stephen Few - Information Dashboard Design]
 * https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742[Douglas Crockford - Javascript: The Good Parts]
-
-
-
 
 
 == Sonstiges - freie Diskussionsrunde
