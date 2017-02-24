@@ -3,25 +3,26 @@
 
 == Vorstellungsrunde, Begrüßung, Organisation und Internes 
 
-Daniel
+Daniel, Jamal
 
 === Organisatorisch
 
-Wie können wir das Event besser bewerben?
+Schauen wir später noch mal, wie wir das alles besser bewerben.
 
 
 == News, Veranstaltungen, Releases, Termine
 
-* http://videonale.org/[Videonale], 17. Februar bis 2. April, Bonn
-* https://lac2017.univ-st-etienne.fr/[Linux Audio Conference], 18.-21. Mai, Saint-Étienne
-* Sonoj (Projektname), Open Source Audio Treffen, 3.-5. November, Köln
+* http://videonale.org/[Videonale], 17. Februar bis 2. April 2017, Bonn
+* https://lac2017.univ-st-etienne.fr/[Linux Audio Conference], 18.-21. Mai 2017, Saint-Étienne, Frankreich
+* Sonoj (Projektname), Open Source Audio Treffen, 3.-5. November 2017, Köln
 * http://www.cop-23.org/[COP23 - Weltklimakonferenz der UN], 6.-17. November 2017, Bonn
   - Jährliche Tagung des UNO-Klimasekretariats, 8.-18.5.2017, Bonn
 
 
 == Projektideen für 2017
 
-Das Thema nehmen wir uns noch mal im Februar vor.
+- Jamal möchte sich gerne einen Überblick verschaffen, was seine Devices so in die Welt senden. Außerdem möchte er ein Dashboard bauen, um private IoT-Devices zu beobachten. Gibt es "versteckte" Surround-Information in meinem Medien-Dateien. Webseite neu machen und noch mal überlegen, wie man die eigenen Medien am besten lizensiert - welche Creative Commons Lizenz.
+- Daniel möchte gerne eine Ambisonics-Installation ins Haus 8 der Ermekeilinitiative bringen.
 
 
 == eBook-Reader (Daniel)
@@ -52,6 +53,8 @@ Wiederum einiges später stellte sich heraus, dass viele technische Dokumentatio
 
 == Sonstiges - freie Diskussionsrunde
 
+* iMax / DRC: Raumkorrektur für Video und Audio, auch z.B. http://drc-fir.sourceforge.net/
+* Daniel berichtet vom schön, skurrilen Vortrag von Richard Stallmann inkl. dem großartigen Teil zur "Church of Emacs"
 * Daniel: Auf der Suche nach Drum-Synthesizern für Linux, bin ich auf ein schönes https://aiexperiments.withgoogle.com/drum-machine[Google Labs-Projekt] gestoßen, welches Künstliche Intelligenz und Percussion-Sounds verbindet
 
 == Nächster Termin
