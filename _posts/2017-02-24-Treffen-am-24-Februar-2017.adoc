@@ -43,6 +43,7 @@ Wiederum einiges später stellte sich heraus, dass viele technische Dokumentatio
 * https://www.gitbook.com/[Gitbook] - Platform zur Erstellung von Büchern vergleichbar mit Github
 * http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer's Guide]
 * https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor-epub3] - moderne Erweiterung für Asciidoctor, die EPUB3 erzeugt
+* empfehlenswerte eBook-Reader-Software ist z.B. https://manual.calibre-ebook.com/viewer.html[(Calibre) ebook-viewer] und http://readium.org/[Readium Chrome Extension]
 * http://www.methods.co.nz/asciidoc/a2x.1.html[A2X] - älterer Konverter nach PDF, EPUB, DVI, PS, LaTeX, XHTML etc.
 
 === Bücher, die in AsciiDoc verfasst wurden
