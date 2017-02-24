@@ -1,4 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Creative Coding Bonn]]></title><description><![CDATA[Creative Coding Bonn verbindet Menschen, die sich für jegliche Aspekte des kreativen Schaffens mit Computern interessieren.]]></description><link>https://creative-coding-bonn.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Oct 2016 13:16:27 GMT</lastBuildDate><atom:link href="https://creative-coding-bonn.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2. Treffen am 21. Oktober]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Creative Coding Bonn]]></title><description><![CDATA[Creative Coding Bonn verbindet Menschen, die sich für jegliche Aspekte des kreativen Schaffens mit Computern interessieren.]]></description><link>https://creative-coding-bonn.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 24 Feb 2017 15:23:52 GMT</lastBuildDate><atom:link href="https://creative-coding-bonn.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Treffen am 27. Januar 2017]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_vorstellungsrunde_begr_ung_organisation_und_internes">Vorstellungsrunde, Begrüßung, Organisation und Internes</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Leider haben alle Teilnehmer kurzfristig abgesagt. Einige Sachen, die in Vorbereitung auf das Treffen gesammelt wurden, werden nun veröffentlicht.</p>
+</div>
+<div class="sect2">
+<h3 id="_organisatorisch">Organisatorisch</h3>
+<div class="paragraph">
+<p>Eventuell könnte man ein offenes Etherpad o.ä. vorbereiten, um schon mal Input für das nächste Treffen zu sammeln.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_news_veranstaltungen_releases_termine">News, Veranstaltungen, Releases, Termine</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://fosdem.org/2017/">FOSDEM'17, 4./5. Februar 2017, Brüssel</a></p>
+</li>
+<li>
+<p><a href="http://rg-koeln.gi.de/naechste-veranstaltung.html">Vortrag mit Richard Stallmann: Free Software, Your Freedom, Your Privacy, 14. Februar 2017, Köln</a></p>
+</li>
+<li>
+<p><a href="http://videonale.org/">Videonale, 17. Februar bis 2. April, Bonn</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Film "How to live in Community", 19. Februar, Ermekeilinitiative</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="http://www.cop-23.org/">COP23 - Weltklimakonferenz der UN, 6.-17. November 2017, Bonn</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Jährliche Tagung des UNO-Klimasekretariats, 8.-18.5.2017, Bonn</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_projektideen_f_r_2017">Projektideen für 2017</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Das Thema nehmen wir uns noch mal im Februar vor.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_d3_js">D3.js</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>D3 steht für "Data Driven Documents". D3.js ist eine Javascript-Bibliothek, die es sehr einfach ermöglicht, dynamisch ein Dokument (HTML, SVG, etc.) anhand von Daten zu verändern. Beispielsweise kann man sehr leicht eine HTML-Tabelle aus Daten erzeugen oder aber eine beliebig komplexe Visualisierung mit SVG.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://d3js.org/">D3.js Homepage</a></p>
+</li>
+<li>
+<p><a href="https://bost.ocks.org/mike/bar/">Bar Chart-Tutorial</a></p>
+</li>
+<li>
+<p><a href="https://jsfiddle.net/tLgp7qvv/">skalierender Bar Chart (abgewandelt von Teil 2 des Tutorials) in JSFiddle</a></p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="_weiterf_hrende_links">Weiterführende Links</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jsfiddle.net/">JSFiddle - Javascript testen</a></p>
+</li>
+<li>
+<p><a href="https://www.codecademy.com/learn/javascript">Online Javascript lernen</a></p>
+</li>
+<li>
+<p><a href="http://dmitrysoshnikov.com/ecmascript/javascript-the-core/">Javascript Inside Artikel</a></p>
+</li>
+<li>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web">MDN - Webstandards sehr gut erklärt</a> &#8594; Suchfunktion</p>
+</li>
+<li>
+<p><a href="https://css-tricks.com/almanac/">CSS-Tricks - gute CSS-Referenz</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_b_cher">Bücher</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.amazon.de/Information-Dashboard-Design-Stephen-Few/dp/1938377001/ref=sr_1_1?s=books-intl-de&amp;ie=UTF8&amp;qid=1480157479&amp;sr=1-1&amp;keywords=stephen+few">Stephen Few - Information Dashboard Design</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742">Douglas Crockford - Javascript: The Good Parts</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sonstiges_freie_diskussionsrunde">Sonstiges - freie Diskussionsrunde</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_n_chster_termin">Nächster Termin</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Freitag, 24. Februar 2017, 19 Uhr, Ermekeilkaserne, Haus 8</p>
+</div>
+</div>
+</div>]]></description><link>https://creative-coding-bonn.github.io/2017/01/27/Treffen-am-27-Januar-2017.html</link><guid isPermaLink="true">https://creative-coding-bonn.github.io/2017/01/27/Treffen-am-27-Januar-2017.html</guid><category><![CDATA[2017]]></category><category><![CDATA[ D3.js]]></category><category><![CDATA[ Meetup]]></category><dc:creator><![CDATA[Daniel Appelt]]></dc:creator><pubDate>Fri, 27 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[2. Treffen am 21. Oktober]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_vorstellungsrunde">Vorstellungsrunde</h2>
 <div class="sectionbody">
 <div class="paragraph">
