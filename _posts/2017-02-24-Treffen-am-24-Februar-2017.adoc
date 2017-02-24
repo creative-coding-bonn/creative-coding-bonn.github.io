@@ -3,7 +3,7 @@
 
 == Vorstellungsrunde, Begrüßung, Organisation und Internes 
 
-Daniel, Jamal
+Anwesend sind heute Daniel und Jamal.
 
 
 == News, Veranstaltungen, Releases, Termine
@@ -17,22 +17,23 @@ Daniel, Jamal
 
 == Projektideen für 2017
 
-- Jamal möchte sich gerne einen Überblick verschaffen, was seine Devices so in die Welt senden. Außerdem möchte er ein Dashboard bauen, um private IoT-Devices zu beobachten. Gibt es "versteckte" Surround-Information in meinem Medien-Dateien. Webseite neu machen und noch mal überlegen, wie man die eigenen Medien am besten lizensiert - welche Creative Commons Lizenz.
-- Daniel möchte gerne eine Ambisonics-Installation ins Haus 8 der Ermekeilinitiative bringen.
+Jamal möchte sich gerne einen Überblick verschaffen, was seine Devices so in die Welt senden. Außerdem möchte er ein Dashboard bauen, um private IoT-Devices dahingehend zu beobachten. Weiterhin möchte er herausfinden, welche seiner Video-/Audio-Medien "versteckte" Surround-Informationen enthalten, um die Frage zu klären, ob sich eine entsprechende Anlage lohnt. Schließlich möchte er seine Webseite neu machen und noch mal überlegen, wie man die eigenen Medien am besten lizensiert - konkret, welche Creative Commons Lizenz für seine Bedürfnisse am besten passt.
+
+Daniel möchte gerne eine https://de.wikipedia.org/wiki/Ambisonics[Ambisonics]-Installation ins Haus 8 zur Ermekeilinitiative bringen. Damit kann man dann schöne wilde https://de.wikipedia.org/wiki/Elektroakustische_Musik[elektroakustische Musik] wiedergeben. Private Projekte gibt es darüber hinaus mehr als genug.
 
 
-== eBook-Reader (Daniel)
+== eBook-Reader
 
-Ich habe mir Ende letztes Jahr einen tolino shine 2HD gekauft. Kurz darauf stellte sich heraus, dass sich das Gerät sowohl Software- als auch Hardware-seitig leicht "hacken" lässt.
+Daniel hat sich Ende letzten Jahres einen https://de.wikipedia.org/wiki/Tolino_Shine_2_HD[Tolino Shine 2 HD] gekauft. Kurz darauf stellte sich heraus, dass sich das Gerät sowohl Software- als auch Hardware-seitig leicht "hacken" lässt.
 
-* Das Gerät lässt sich recht leicht http://allesebook.de/anleitung/anleitung-tolino-vision-3-hd-shine-2-hd-root-67103/[rooten], worauf hin man ein eInk-"Tablet" mit Android 4.0.3 hat.
+* Das Gerät lässt sich recht leicht http://allesebook.de/anleitung/anleitung-tolino-vision-3-hd-shine-2-hd-root-67103/[rooten], worauf hin man ein vollwertiges eInk-"Tablet" mit Android 4.0.3 hat. Bedenken muss man allerdings, dass sich eInk nur für "langsame", visuelle Inhalte eignet.
 * Der Speicher des Geräts lässt sich http://allesebook.de/anleitung/anleitung-tolino-shine-2-hd-internen-speicherplatz-vergroessern-67263/[recht leicht erweitern].
 
-== Eigene eBooks erstellen (Daniel)
+== Eigene eBooks erstellen
 
-Im November habe ich an einem Treffen von http://correlaid.org/[CorrelAid] teilgenommen, und dort das erste Mal etwas von http://rmarkdown.rstudio.com/[R Markdown] gehört. R Markdown kombiniert i.W. die Statistik-Programmiersprache R mit Markdown, um damit Veröffentlichungen jeglicher Art im Statistik-Bereich zu erstellen. Später habe ich herausgefunden, dass hier das Tool http://pandoc.org/[pandoc] die Grundlage bildet, welches eines der universellsten Text-Dokumenten-Konvertierer ist.
+Im November hat Daniel an einem Treffen von http://correlaid.org/[CorrelAid] teilgenommen, und dort das erste Mal etwas von http://rmarkdown.rstudio.com/[R Markdown] gehört. R Markdown kombiniert i.W. die Statistik-Programmiersprache R mit Markdown, um damit Veröffentlichungen jeglicher Art im Statistik-Bereich zu erstellen. Später hat er herausgefunden, dass hier das Tool http://pandoc.org/[pandoc] die Grundlage bildet, welches eines der universellsten Text-Dokumenten-Konvertierer ist.
 
-Wiederum einiges später stellte sich heraus, dass viele technische Dokumentationen heute in http://www.methods.co.nz/asciidoc/[AsciiDoc] geschrieben werden. AsciiDoc ist genauso wie Markdown eine einfache, leichtgewichtige Auszeichnungssprache für Text-Dokumente. Insbesondere basiert dieses "Blog"-System ebenfalls darauf. Im Gegensatz zu Markdown ist AsciiDoc stärker standardisiert und besitzt in der Grundversion schon mehr "Features". Mit http://asciidoctor.org/[Asciidoctor] existiert eine mächtige, zeitgemäße Implementierung in Ruby.
+Wiederum einiges später stellte sich heraus, dass viele technische Dokumentationen heute anscheinend in http://www.methods.co.nz/asciidoc/[AsciiDoc] geschrieben werden. AsciiDoc ist genauso wie Markdown eine einfache Text-Auszeichnungssprache. Insbesondere basiert diese http://hubpress.io/[HubPress]-Installation darauf. Im Gegensatz zu Markdown ist AsciiDoc stärker standardisiert und besitzt so in der Grundversion schon mehr "Features". Mit http://asciidoctor.org/[Asciidoctor] existiert eine mächtige, zeitgemäße Implementierung in Ruby.
 
 === Weiterführende Links
 
