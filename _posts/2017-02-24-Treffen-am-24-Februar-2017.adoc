@@ -1,0 +1,56 @@
+= Treffen am 24. Februar 2017
+:hp-tags: eBook, EPUB, AsciiDoc, Meetup
+
+== Vorstellungsrunde, Begrüßung, Organisation und Internes 
+
+Daniel
+
+=== Organisatorisch
+
+Wie können wir das Event besser bewerben?
+
+
+== News, Veranstaltungen, Releases, Termine
+
+* http://videonale.org/[Videonale], 17. Februar bis 2. April, Bonn
+* https://lac2017.univ-st-etienne.fr/[Linux Audio Conference], 18.-21. Mai, Saint-Étienne
+* Sonoj (Projektname), Open Source Audio Treffen, 3.-5. November, Köln
+* http://www.cop-23.org/[COP23 - Weltklimakonferenz der UN], 6.-17. November 2017, Bonn
+  - Jährliche Tagung des UNO-Klimasekretariats, 8.-18.5.2017, Bonn
+
+
+== Projektideen für 2017
+
+Das Thema nehmen wir uns noch mal im Februar vor.
+
+
+== eBook-Reader (Daniel)
+
+Ich habe mir Ende letztes Jahr einen tolino shine 2HD gekauft. Kurz darauf stellte sich heraus, dass sich das Gerät sowohl Software- als auch Hardware-seitig leicht "hacken" lässt.
+
+* Das Gerät lässt sich recht leicht http://allesebook.de/anleitung/anleitung-tolino-vision-3-hd-shine-2-hd-root-67103/[rooten], worauf hin man ein eInk-"Tablet" mit Android 4.0.3 hat.
+* Der Speicher des Geräts lässt sich http://allesebook.de/anleitung/anleitung-tolino-shine-2-hd-internen-speicherplatz-vergroessern-67263/[recht leicht erweitern].
+
+== Eigene eBooks erstellen (Daniel)
+
+Im November habe ich an einem Treffen von http://correlaid.org/[CorrelAid] teilgenommen, und dort das erste Mal etwas von http://rmarkdown.rstudio.com/[R Markdown] gehört. R Markdown kombiniert i.W. die Statistik-Programmiersprache R mit Markdown, um damit Veröffentlichungen jeglicher Art im Statistik-Bereich zu erstellen. Später habe ich herausgefunden, dass hier das Tool http://pandoc.org/[pandoc] die Grundlage bildet, welches eines der universellsten Text-Dokumenten-Konvertierer ist.
+
+Wiederum einiges später stellte sich heraus, dass viele technische Dokumentationen heute in http://www.methods.co.nz/asciidoc/[AsciiDoc] geschrieben werden. AsciiDoc ist genauso wie Markdown eine einfache, leichtgewichtige Auszeichnungssprache für Text-Dokumente. Insbesondere basiert dieses "Blog"-System ebenfalls darauf. Im Gegensatz zu Markdown ist AsciiDoc stärker standardisiert und besitzt in der Grundversion schon mehr "Features". Mit http://asciidoctor.org/[Asciidoctor] existiert eine mächtige, zeitgemäße Implementierung in Ruby.
+
+=== Weiterführende Links
+
+* https://www.gitbook.com/[Gitbook] - Platform zur Erstellung von Büchern vergleichbar mit Github
+* http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer's Guide]
+* https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor-epub3] - moderne Erweiterung für Asciidoctor, die EPUB3 erzeugt
+* http://www.methods.co.nz/asciidoc/a2x.1.html[A2X] - älterer Konverter nach PDF, EPUB, DVI, PS, LaTeX, XHTML etc.
+
+=== Bücher, die in AsciiDoc verfasst wurden
+
+* https://git-scm.com/book/en/v2[Pro Git] von Scott Chacon und Ben Straub sowie https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272[Hintergründe zum "Entwicklungsprozess"]
+* http://asciidoc.org/#X7[Beispiel-Bücher]
+
+
+== Sonstiges - freie Diskussionsrunde
+
+== Nächster Termin
+Freitag, 24. März 2017, 19 Uhr, Ermekeilkaserne, Haus 8
