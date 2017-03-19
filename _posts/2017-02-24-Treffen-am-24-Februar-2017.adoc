@@ -17,43 +17,43 @@ Anwesend sind heute Daniel und Jamal.
 
 == Projektideen für 2017
 
-Jamal möchte sich gerne einen Überblick verschaffen, was seine Devices so in die Welt senden. Außerdem möchte er ein Dashboard bauen, um private IoT-Devices dahingehend zu beobachten. Weiterhin möchte er herausfinden, welche seiner Video-/Audio-Medien "versteckte" Surround-Informationen enthalten, um die Frage zu klären, ob sich eine entsprechende Anlage lohnt. Schließlich möchte er seine Webseite neu machen und noch mal überlegen, wie man die eigenen Medien am besten lizensiert - konkret, welche Creative Commons Lizenz für seine Bedürfnisse am besten passt.
+Jamal möchte sich gerne einen Überblick verschaffen, was seine Devices so in die Welt senden. Außerdem möchte er ein Dashboard bauen, um private IoT-Devices dahingehend zu beobachten. Weiterhin will er herausfinden, welche seiner Video-/Audio-Medien "versteckte" Surround-Informationen enthalten, um die Frage zu klären, ob sich eine entsprechende Anlage lohnt. Schließlich möchte er seine Webseite neu machen und noch mal überlegen, wie man die eigenen Medien am besten lizensiert - konkret, welche Creative Commons Lizenz für seine Bedürfnisse am besten passt.
 
-Daniel möchte gerne eine https://de.wikipedia.org/wiki/Ambisonics[Ambisonics]-Installation ins Haus 8 zur Ermekeilinitiative bringen. Damit kann man dann schöne wilde https://de.wikipedia.org/wiki/Elektroakustische_Musik[elektroakustische Musik] wiedergeben. Private Projekte gibt es darüber hinaus mehr als genug.
+Daniel möchte gerne eine https://de.wikipedia.org/wiki/Ambisonics[Ambisonics]-Installation ins Haus 8 zur Ermekeilinitiative bringen. Damit kann man dann schöne wilde https://de.wikipedia.org/wiki/Elektroakustische_Musik[elektroakustische Musik] wiedergeben.
 
 
 == eBook-Reader
 
 Daniel hat sich Ende letzten Jahres einen https://de.wikipedia.org/wiki/Tolino_Shine_2_HD[Tolino Shine 2 HD] gekauft. Kurz darauf stellte sich heraus, dass sich das Gerät sowohl Software- als auch Hardware-seitig leicht "hacken" lässt.
 
-* Das Gerät lässt sich recht leicht http://allesebook.de/anleitung/anleitung-tolino-vision-3-hd-shine-2-hd-root-67103/[rooten], worauf hin man ein vollwertiges eInk-"Tablet" mit Android 4.0.3 hat. Bedenken muss man allerdings, dass sich eInk nur für "langsame", visuelle Inhalte eignet.
+* Das Gerät lässt sich recht leicht http://allesebook.de/anleitung/anleitung-tolino-vision-3-hd-shine-2-hd-root-67103/[rooten], worauf hin man ein vollwertiges eInk-"Tablet" mit Android 4.0.3 hat. Bedenken muss man allerdings, dass sich die eInk-Technik im Display nur für "langsame" Inhalte eignet.
 * Der Speicher des Geräts lässt sich http://allesebook.de/anleitung/anleitung-tolino-shine-2-hd-internen-speicherplatz-vergroessern-67263/[recht leicht erweitern].
 
 == Eigene eBooks erstellen
 
-Im November hat Daniel an einem Treffen von http://correlaid.org/[CorrelAid] teilgenommen, und dort das erste Mal etwas von http://rmarkdown.rstudio.com/[R Markdown] gehört. R Markdown kombiniert i.W. die Statistik-Programmiersprache R mit Markdown, um damit Veröffentlichungen jeglicher Art im Statistik-Bereich zu erstellen. Später hat er herausgefunden, dass hier das Tool http://pandoc.org/[pandoc] die Grundlage bildet, welches eines der universellsten Text-Dokumenten-Konvertierer ist.
+Im November hat Daniel an einem Treffen von http://correlaid.org/[CorrelAid] teilgenommen, und dort das erste Mal etwas von http://rmarkdown.rstudio.com/[R Markdown] gehört. R Markdown kombiniert i.W. die Statistik-Programmiersprache R mit Markdown, um damit Veröffentlichungen jeglicher Art im Statistik-Bereich zu erstellen. Grundlage bildet das Tool http://pandoc.org/[pandoc], welches eines der universellsten Text-Dokumenten-Konvertierer ist.
 
-Wiederum einiges später stellte sich heraus, dass viele technische Dokumentationen heute anscheinend in http://www.methods.co.nz/asciidoc/[AsciiDoc] geschrieben werden. AsciiDoc ist genauso wie Markdown eine einfache Text-Auszeichnungssprache. Insbesondere basiert diese http://hubpress.io/[HubPress]-Installation darauf. Im Gegensatz zu Markdown ist AsciiDoc stärker standardisiert und besitzt so in der Grundversion schon mehr "Features". Mit http://asciidoctor.org/[Asciidoctor] existiert eine mächtige, zeitgemäße Implementierung in Ruby.
+Darüber hinaus werden heute viele technische Dokumentationen auch in http://www.methods.co.nz/asciidoc/[AsciiDoc] geschrieben. AsciiDoc ist genauso wie Markdown eine einfache Text-Auszeichnungssprache. Insbesondere wird es in dieser http://hubpress.io/[HubPress]-Installation zum Verfassen der Posts benutzt. Im Gegensatz zu Markdown ist AsciiDoc stärker standardisiert und besitzt so in der Grundversion schon mehr "Features". Mit http://asciidoctor.org/[Asciidoctor] existiert eine mächtige Implementierung in Ruby.
 
 === Weiterführende Links
 
 * https://www.gitbook.com/[Gitbook] - Platform zur Erstellung von Büchern vergleichbar mit Github
 * http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer's Guide]
-* https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor-epub3] - moderne Erweiterung für Asciidoctor, die EPUB3 erzeugt
-* empfehlenswerte eBook-Reader-Software ist z.B. https://manual.calibre-ebook.com/viewer.html[(Calibre) ebook-viewer] und http://readium.org/[Readium Chrome Extension]
-* http://www.methods.co.nz/asciidoc/a2x.1.html[A2X] - älterer Konverter nach PDF, EPUB, DVI, PS, LaTeX, XHTML etc.
+* https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor-epub3] - Erweiterung für Asciidoctor, um EPUB3 zu erzeugen
+* Beispiele empfehlenswerter eBook-Reader-Software sind https://manual.calibre-ebook.com/viewer.html[(Calibre) ebook-viewer] und http://readium.org/[Readium Chrome Extension]
+* http://www.methods.co.nz/asciidoc/a2x.1.html[A2X] - älterer AsciiDoc-Konverter nach PDF, EPUB, DVI, PS, LaTeX, XHTML etc.
 
 === Bücher, die in AsciiDoc verfasst wurden
 
-* https://git-scm.com/book/en/v2[Pro Git] von Scott Chacon und Ben Straub sowie https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272[Hintergründe zum "Entwicklungsprozess"]
+* https://git-scm.com/book/en/v2[Pro Git] von Scott Chacon und Ben Straub - https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272[Hintergründe zum "Entwicklungsprozess"]
 * http://asciidoc.org/#X7[Beispiel-Bücher]
 
 
 == Sonstiges - freie Diskussionsrunde
 
-* iMax / DRC: Raumkorrektur für Video und Audio, auch z.B. http://drc-fir.sourceforge.net/
+* iMax / Digitale Raumkorrektur (DRC) für Audio- / Video-Wiedergabe: für Audio gibt es z.B. http://drc-fir.sourceforge.net/ als freie Software
 * Daniel berichtet vom schön, skurrilen Vortrag von Richard Stallmann inkl. dem großartigen Teil zur "Church of Emacs"
-* Daniel: Auf der Suche nach Drum-Synthesizern für Linux, bin ich auf ein schönes https://aiexperiments.withgoogle.com/drum-machine[Google Labs-Projekt] gestoßen, welches Künstliche Intelligenz und Percussion-Sounds verbindet
+* Daniel: Auf der Suche nach Drum-Synthesizern für Linux, bin ich auf ein schönes https://aiexperiments.withgoogle.com/drum-machine[Google Labs-Projekt] gestoßen, welches Künstliche Intelligenz und Percussion-Sounds verbindet.
 
 
 === Organisatorisch
