@@ -1,0 +1,31 @@
+= Treffen am 24. März 2017
+:hp-tags: AsciiDoc, RevealJS, Meetup
+
+== Vorstellungsrunde, Begrüßung, Organisation und Internes 
+
+Anwesend sind heute Daniel und Jupp.
+
+
+== News, Veranstaltungen, Releases, Termine
+
+Diesen Punkt überspringen wir.
+
+== TODO
+
+
+== reveal.js-Präsentationen in AsciiDoc erstellen
+
+* https://github.com/hakimel/reveal.js[reveal.js]
+* http://asciidoctor.org/docs/asciidoctor-revealjs/[reveal.js-Backend für Asciidoctor]
+
+* Speaker Mode in reveal.js
+
+=== Weiterführende Links
+
+
+
+== Sonstiges - freie Diskussionsrunde
+
+
+== Nächster Termin
+Freitag, 22. April 2017, 19 Uhr, Ermekeilkaserne, Haus 8
